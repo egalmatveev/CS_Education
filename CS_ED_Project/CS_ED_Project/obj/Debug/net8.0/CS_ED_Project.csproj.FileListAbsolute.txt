@@ -1,0 +1,14 @@
+C:\Users\matveev_ea\source\repos\CS_Education\CS_ED_Project\CS_ED_Project\bin\Debug\net8.0\CS_ED_Project.exe
+C:\Users\matveev_ea\source\repos\CS_Education\CS_ED_Project\CS_ED_Project\bin\Debug\net8.0\CS_ED_Project.deps.json
+C:\Users\matveev_ea\source\repos\CS_Education\CS_ED_Project\CS_ED_Project\bin\Debug\net8.0\CS_ED_Project.runtimeconfig.json
+C:\Users\matveev_ea\source\repos\CS_Education\CS_ED_Project\CS_ED_Project\bin\Debug\net8.0\CS_ED_Project.dll
+C:\Users\matveev_ea\source\repos\CS_Education\CS_ED_Project\CS_ED_Project\bin\Debug\net8.0\CS_ED_Project.pdb
+C:\Users\matveev_ea\source\repos\CS_Education\CS_ED_Project\CS_ED_Project\obj\Debug\net8.0\CS_ED_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matveev_ea\source\repos\CS_Education\CS_ED_Project\CS_ED_Project\obj\Debug\net8.0\CS_ED_Project.AssemblyInfoInputs.cache
+C:\Users\matveev_ea\source\repos\CS_Education\CS_ED_Project\CS_ED_Project\obj\Debug\net8.0\CS_ED_Project.AssemblyInfo.cs
+C:\Users\matveev_ea\source\repos\CS_Education\CS_ED_Project\CS_ED_Project\obj\Debug\net8.0\CS_ED_Project.csproj.CoreCompileInputs.cache
+C:\Users\matveev_ea\source\repos\CS_Education\CS_ED_Project\CS_ED_Project\obj\Debug\net8.0\CS_ED_Project.dll
+C:\Users\matveev_ea\source\repos\CS_Education\CS_ED_Project\CS_ED_Project\obj\Debug\net8.0\refint\CS_ED_Project.dll
+C:\Users\matveev_ea\source\repos\CS_Education\CS_ED_Project\CS_ED_Project\obj\Debug\net8.0\CS_ED_Project.pdb
+C:\Users\matveev_ea\source\repos\CS_Education\CS_ED_Project\CS_ED_Project\obj\Debug\net8.0\CS_ED_Project.genruntimeconfig.cache
+C:\Users\matveev_ea\source\repos\CS_Education\CS_ED_Project\CS_ED_Project\obj\Debug\net8.0\ref\CS_ED_Project.dll
